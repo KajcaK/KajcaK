@@ -29,7 +29,7 @@ Junior dev passionate about full-stack web apps, cats, and building things that 
 
 ### 💬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dickovadev/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-22223b?logo=githubpages&logoColor=white&style=for-the-badge)](https://dickovadev.eu)
 
 ---
