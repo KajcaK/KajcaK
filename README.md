@@ -43,6 +43,13 @@ Junior dev passionate about full-stack web apps, cats, and building things that 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajcak&layout=donut&theme=tokyonight)
 </details>
 
+<details>
+  <summary>Show LeetCode Stats</summary>
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/kajcak?theme=dark)](https://leetcode.com/u/kajcak/)
+</details>
+
+
 ---
 
 <div align="center">
