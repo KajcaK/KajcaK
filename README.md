@@ -4,10 +4,7 @@
 
 Junior dev passionate about full-stack web apps, cats, and building things that make life easier (or weirder 🐈‍⬛).
 
-### 🔮 Currently Learning
-- Docker & CI/CD
-- TypeScript advanced features
-- PostgreSQL
+![Codewars](https://www.codewars.com/users/Kajca/badges/large)
 
 ---
 
