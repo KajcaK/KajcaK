@@ -4,8 +4,6 @@
 
 Junior dev passionate about full-stack web apps, cats, and building things that make life easier (or weirder 🐈‍⬛).
 
-![Codewars](https://www.codewars.com/users/Kajca/badges/large)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -32,6 +30,12 @@ Junior dev passionate about full-stack web apps, cats, and building things that 
 ---
 
 ### 📈 Stats
+<details>
+  <summary>Show CodeWars Stats</summary>
+  
+  ![Codewars](https://github.r2v.ch/codewars?user=Kajca&stroke=%23BB432C)
+</details>
+
 <details>
   <summary>Show GitHub Stats</summary>
   
